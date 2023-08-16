@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwaqasmw&label=Profile%20views&color=0e75b6&style=flat" alt="mwaqasmw" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-- 🌱 I’m currently learning **Bootstrap and JavaScript**
+- 🌱 I’m currently learning ** ReactJs and ReactNative**
 - 👨‍💻 All of my projects are available at [https://github.com/MWaqasMW](https://github.com/MWaqasMW)
-- 💬 Ask me about **HTML CSS and JavaScript**
+- 💬 Ask me about **JavaScript FireBase ReactJs**
 - 📫 How to reach me **mwaqas6001@gmail.com**
 - ⚡ Fun fact **I thing I Cheeky**
 <h3 align="left">Connect with me:</h3>
