@@ -2,11 +2,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Waqas</h1>
-<h3 align="center">A passionate frontend developer && MERN Stack Developer from Pakistan</h3>
+<h3 align="center">A passionate Frontend && MERN Stack Developer from Pakistan</h3>
 
 
 
-- 🔭 I’m currently working on **E-commerce Store**
+- 🔭 I’m currently working on **React.js  Javascript **
 
 - 🌱 I’m currently learning **Nodejs MongoDb**
 
