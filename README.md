@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **React.js  Javascript **
 
-- 🌱 I’m currently learning **Nodejs MongoDb**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **JavaScript React Nodejs Express MongoDb**
 
