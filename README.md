@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Waqas</h1>
-<h3 align="center">I'm a full-stack Developer with expertise in the MERN stack, creating scalable, high-performance web applications that deliver seamless user experiences.</h3>
+<h3 align="center">I'm a full-stack Developer with expertise in the MERN stack, creating scalable, high-performance applications that deliver seamless user experiences.</h3>
 
 
 - 🌱 I’m currently learning **Python, Fast Api, and DevOps**
