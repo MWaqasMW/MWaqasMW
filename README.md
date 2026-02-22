@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Waqas</h1>
-<h3 align="center">A passionate Frontend && MERN Stack Developer from Pakistan</h3>
+<h3 align="center">I'm a full-stack Developer with expertise in the MERN stack, creating scalable, high-performance web applications that deliver seamless user experiences.</h3>
 
 
 - 🌱 I’m currently learning **Python, Fast Api, and DevOps**
@@ -111,6 +111,11 @@
   <a href="https://mochajs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-original.svg" alt="mocha" width="40" height="40"/>
   </a>
+
+<!-- PWA -->
+<a href="https://web.dev/progressive-web-apps/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pwa.svg" alt="pwa" width="40" height="40"/>
+</a>
 
 </p>
 
