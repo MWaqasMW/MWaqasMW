@@ -1,48 +1,149 @@
 <h1 align="center">Hi 👋, I'm Muhammad Waqas</h1>
-<h3 align="center">A passionate Frontend && MERN Stack Developer from Pakistan</h3>
+<h3 align="center">Frontend & MERN Stack Developer | React • Next.js • React Native</h3>
 
-- 🔭 I’m currently working on **React.js & JavaScript**
-
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB**
-
-- 📫 How to reach me: **mwaqas6001@gmail.com**
-
-- ⚡ Fun fact: **I think I'm funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-waqas-3b191326a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-waqas-3b191326a/" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21532108/muhammad-waqas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21532108/muhammad-waqas" height="30" width="40" /></a>
-  <a href="https://fb.com/https://www.facebook.com/waqas.qurashi.923/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/waqas.qurashi.923/" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/https://www.hackerrank.com/mwaqas6001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mwaqas6001" height="30" width="40" /></a>
+<p align="center">
+  📍 Karachi, Pakistan <br/>
+  💼 Software Engineer with 2.5+ Years of Experience <br/>
+  🚀 Building Scalable Web & Mobile Applications
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
- <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
- 
-  
-  
+---
+
+## 👨‍💻 About Me
+
+I’m a passionate Frontend & MERN Stack Developer specializing in building scalable, high-performance web applications and enterprise-grade CRM systems.
+
+I focus on:
+
+- ⚛️ Modern React & Next.js applications  
+- 📱 Cross-platform mobile apps using React Native  
+- 🧠 Clean architecture & reusable component systems  
+- 🚀 Performance optimization & scalability  
+- 🔗 API integration & advanced state management  
+
+I enjoy transforming complex business logic into clean, maintainable user interfaces.
+
+---
+
+## 💼 Experience
+
+### 🏢 Software Engineer — SysTellex Inc (06/2025 – Present)
+
+- Develop high-performance applications using **Next.js**
+- Work on **Network Management Systems (NMS)** for international clients
+- Integrate APIs with IoT devices & network switches via RPC
+- Contribute to internal **Sales CRM & ERP systems**
+- Optimize browser performance and application scalability
+- Collaborate with UX & backend teams for clean system architecture
+
+---
+
+### 🏢 Frontend Developer — Qualix Solutions (02/2024 – 05/2025)
+
+- Led a 4-person frontend team
+- Built a large-scale procurement CRM system
+- Designed modular, reusable, component-driven architecture
+- Developed complex multi-step dynamic forms
+- Implemented code reviews, automated testing & CI workflows
+- Delivered CRM & mobile application projects
+
+---
+
+### 🏢 React JS Developer (Intern) — 3Const Pvt Ltd (09/2023 – 01/2024)
+
+- Developed official company website using React.js
+- Implemented modern animations & UI enhancements
+- Optimized performance and reduced load times
+- Ensured SEO optimization & cross-browser compatibility
+
+---
+
+## 🚀 Featured Project
+
+### 🏗 Procure Builder — Enterprise CRM & Mobile Inventory Platform (USA Client)
+
+- Built scalable CRM with hundreds of dynamic fields
+- Implemented:
+  - Lazy loading
+  - Field virtualization
+  - Memoization
+  - Optimized state management
+- Integrated bulk Excel import with validation
+- Developed companion React Native app
+- Implemented QR-based real-time inventory tracking
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+- JavaScript (ES6+)
+- TypeScript
+- Python
+- HTML5
+- CSS3
+- SASS / SCSS
+
+### ⚛️ Frontend
+- React.js
+- Next.js
+- React Native
+- Redux (Toolkit & Thunk)
+- TanStack Query
+- Tailwind CSS
+- Bootstrap
+- Material UI
+- Ant Design
+- i18next
+- PWA
+
+### 🔧 Backend
+- Node.js
+- Express.js
+
+### 🗄 Databases
+- MongoDB
+- Firebase
+
+### 🚀 DevOps & Tools
+- Git
+- GitHub
+- CI/CD Pipelines
+- Docker
+
+---
+
+## 🎓 Education
+
+🎓 Bachelor of Computer Science  
+Allama Iqbal Open University (2024 – Present)
+
+🎓 Web & Mobile Application Development  
+Saylani Mass IT Training (SMIT)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MWaqasMW&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MWaqasMW&theme=tokyonight" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mwaqasmw&show_icons=true&locale=en&layout=compact" alt="mwaqasmw"/></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mwaqasmw&show_icons=true&locale=en" alt="mwaqasmw"/></p>
+## 📫 Connect With Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwaqasmw&" alt="mwaqasmw"/></p>
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-waqas-3b191326a/
+- 💻 GitHub: https://github.com/MWaqasMW
+- 📧 Email: mwaqas6001@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I turn complex business requirements into clean UI — and yes, I still think I’m funny 😄
+
+---
+
+⭐ From MWaqasMW
